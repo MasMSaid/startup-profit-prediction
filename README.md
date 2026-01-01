@@ -8,7 +8,6 @@ The goal is to identify the most influential factors driving profitability and c
 
 > ⚠️ Note: This project is for **educational purposes** and does not represent production-level deployment.
 
----
 
 ## 📂 Dataset
 
@@ -21,7 +20,6 @@ The goal is to identify the most influential factors driving profitability and c
   - `State` – Company location (categorical)  
   - `Profit` – Target variable  
 
----
 
 ## ⚙️ Methods & Workflow
 
@@ -36,7 +34,6 @@ The goal is to identify the most influential factors driving profitability and c
 5. **Model evaluation:** Compare models using MAE, MSE, RMSE, and R²  
 6. **Insights & key drivers:** Identify the most impactful features for profit prediction  
 
----
 
 ## 🏆 Results & Model Comparison
 
@@ -55,21 +52,18 @@ The goal is to identify the most influential factors driving profitability and c
 - **R&D Spend** emerged as the **most influential predictor** of profit.  
 - MAE was prioritized over R² as it provides an intuitive measure of **average prediction error in monetary terms**.
 
----
 
 ## 🛠️ Tools & Libraries
 
 - **Programming Language:** Python  
 - **Libraries:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 
----
 
 ## ✅ Summary
 
 This project demonstrates how supervised regression can be applied to predict startup profits and identify key drivers of profitability.  
 Polynomial Regression proved to be the most accurate model, highlighting the importance of R&D investment in driving profit.  
 
----
 
 ## 🚀 How to Run
 
