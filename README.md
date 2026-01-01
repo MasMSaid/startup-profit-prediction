@@ -1,9 +1,5 @@
 # 💰 Startup Profit Prediction (Supervised Regression)
 
-**Tagline:** Predict startup profits and identify key drivers of profitability using regression models.
-
----
-
 ## 📌 Project Overview
 
 This project uses **supervised regression** to predict company profit based on R&D spend, marketing spend, administration costs, and geographic location.  
